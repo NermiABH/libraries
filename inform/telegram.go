@@ -2,7 +2,7 @@ package inform
 
 import (
 	"fmt"
-	"libraries/web"
+	"github.com/NermiABH/libraries/web"
 	"log"
 	"time"
 )
