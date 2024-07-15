@@ -1,4 +1,4 @@
-module libraries
+module github.com/NermiABH/libraries
 
 go 1.21.5
 
